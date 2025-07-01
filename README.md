@@ -34,13 +34,12 @@ Despite missing the top MAE by just **5 units**, the model performed robustly ac
 
 ---
 
----
 
 ## ⚠️ Note About Invalid Notebooks
 
 If this notebook shows up as **"invalid" on Kaggle**, you can still view and run it using Google Colab:
 
-### 🔄 View it on Google Colab
+### 🔄 View on Google Colab
 
 1. Download `honey_yield_model.ipynb`
 2. Go to [Google Colab](https://colab.research.google.com/)
@@ -60,9 +59,9 @@ If this notebook shows up as **"invalid" on Kaggle**, you can still view and run
 
 ## 🔗 Connect With Me
 
-- 🧠 **Kaggle**: [kaggle.com/akshat9105](https://www.kaggle.com/akshat9105)
-- 💼 **LinkedIn**: [linkedin.com/in/akshat-gupta-6a27a331a](https://www.linkedin.com/in/akshat-gupta-6a27a331a/)
-- 💻 **GitHub**: [github.com/akshat09105](https://github.com/akshat09105)
+- 🧠 Kaggle Profile → [Click Here](https://www.kaggle.com/akshat9105)
+- 💼 LinkedIn Profile → [Click Here](https://www.linkedin.com/in/akshat-gupta-6a27a331a/)
+- 💻 GitHub Repo → [Click Here](https://github.com/akshat09105)
 
 ---
 
@@ -73,4 +72,3 @@ Feel free to explore the notebook, suggest improvements, or fork it for your own
 
 **Happy Learning!**  
 — *Akshat Gupta*
-
